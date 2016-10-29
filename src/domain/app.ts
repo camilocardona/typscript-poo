@@ -3,7 +3,7 @@
 
 //export 
 
-class app
+class App 
 
 {
         main()    

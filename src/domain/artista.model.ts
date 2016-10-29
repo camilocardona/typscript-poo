@@ -1,4 +1,4 @@
-class Artista 
+class Artista
 {
     public nombre: string;
     public edad: number;
